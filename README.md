@@ -5,9 +5,9 @@
   <a href="https://www.linkedin.com/in/victorhugodata/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:victorhugo.chavesrj@gmail.com" target="_blank">
+    <a href="mailto:victorhugo.chavesrj@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white" alt="E-mail">
-  </a>
+</a>
   <a href="https://github.com/VictorHugodata?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   </a>
