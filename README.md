@@ -24,7 +24,7 @@ Minha trajetória começou nos estudos para concursos militares, onde descobri m
 
 Em 2023, migrei para a programação e, em 2024, me apaixonei pela área de dados.
 
-Atualmente atuo como freelancer de dados na Workana e sou Assistente Comercial na Atendechat. 
+Atualmente atuo como freelancer de dados na Workana e sou Assistente Comercial na Atendechat
 
 Tenho grande interesse em análises, automações e visualizações de dados. Sou movido pelo aprendizado contínuo e pela busca por entendimento profundo em tudo o que me proponho a aprender.
 
