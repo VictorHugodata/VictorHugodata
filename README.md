@@ -61,7 +61,7 @@ Tenho grande interesse em análises, automações e visualizações de dados. So
 ### 🛠️ Ferramentas e Visualização
 - **Python** (Pandas, NumPy, Scikit-Learn, Matplotlib, Plotly)  
 - **Ambientes**: Jupyter Notebook, Anaconda  
-- **Dashboards**: Power BI, Streamlit  
+- **Dashboards**: Power BI, Streamlit, Looker Studio  
 
 ### 💻 Outras Competências
 - Criação de Dashboards Interativos  
@@ -72,6 +72,15 @@ Tenho grande interesse em análises, automações e visualizações de dados. So
 
 ## 📂 Projetos Recentes  
 
+### 📊 [Dashboard para visualização de vendas da LG](https://github.com/VictorHugodata/diabete_predict)  
+- Aplicação do **Power BI** para criação do dashboard. 
+- Projeto desenvolvido para uma empresa, que queria saber de insights e da visualizações da LG, para se basear nas suas tomadas de decisões.
+
+### 📧 [Sistema de Automação de E-mail para Novos Leads](https://github.com/VictorHugodata/automacao_email)  
+- Utilização da biblioteca **mysql.connector** para conectar meu banco de dados no python, para automatizar o recebimento de novos leads para o Google Sheets.
+- Projeto feito para uma empresa do ramo da saúde para notificação de novos leads
+- Dashboard em Power BI integrado ao banco MySQL via Google Sheets, com atualização automática de novos leads e visualização por dia, mês e ano. (pessoal da empresa)
+
 ### 🧠 [Modelo Preditivo para Diagnóstico de Diabetes](https://github.com/VictorHugodata/diabete_predict)  
 - Utilização da biblioteca **Streamlit** para criação do painel de previsões.
 - Utilização da biblioteca **Scikit-Learn** para criação do modelo que é usado no painel.
@@ -79,9 +88,6 @@ Tenho grande interesse em análises, automações e visualizações de dados. So
 ### 📊 [Dashboard Financeiro para organização financeira](https://github.com/VictorHugodata/powerbi_dashboardfinanceiro)  
 - Aplicação do **Power BI** para criação do dashboard.  
 - Projeto desenvolvido para uma empresa de educação financeira. A logo original foi ocultada por motivos de confidencialidade.
-
-### 🧩 [Segmentação de Clientes](https://github.com/VictorHugodata/segmentacao_de_clientes)  
-- Agrupamento comportamental de clientes de compras utilizando **K-Means** e **Agrupamento Hierarquico** usando **Indice de Silhueta** e **Metodo de Cotovelo**
 
 📂 Veja mais em [DataScienceProjects](https://github.com/VictorHugodata?tab=repositories).
 
