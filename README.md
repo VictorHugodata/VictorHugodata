@@ -72,7 +72,7 @@ Tenho grande interesse em análises, automações e visualizações de dados. So
 
 ## 📂 Projetos Recentes  
 
-### 📊 [Dashboard para visualização de vendas da LG](https://github.com/VictorHugodata/diabete_predict)  
+### 📊 [Dashboard para visualização de vendas da LG](https://github.com/VictorHugodata/dashboard_LG)  
 - Aplicação do **Power BI** para criação do dashboard. 
 - Projeto desenvolvido para uma empresa, que queria saber de insights e da visualizações da LG, para se basear nas suas tomadas de decisões.
 
